@@ -1,2 +1,1 @@
-# belajar-git
-Belajar Git
+# Tentang Repository Ini
